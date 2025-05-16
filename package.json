@@ -44,7 +44,7 @@
     "@kickstartds/style-dictionary": "^2.2.1",
     "@stackbit/cms-git": "^0.3.34",
     "@stackbit/types": "^0.10.14",
-    "esbuild": "^0.19.5",
+    "esbuild": "^0.25.0",
     "import-meta-resolve": "~3.0.0",
     "json-schema-typed": "~8.0.1",
     "kickstartds": "3.0.0-next.11",
